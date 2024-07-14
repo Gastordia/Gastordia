@@ -2,7 +2,7 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/7owayServers)](https://twitter.com/7owayServers)
-
+![tryhackme].(https://tryhackme.com/p/7oway.servers)
 
 [![Github](https://img.shields.io/github/followers/Gastordia?label=Follow&style=social)](https://github.com/Gastordia)
 

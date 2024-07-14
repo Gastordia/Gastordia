@@ -18,7 +18,6 @@
 
 - Reverse engineering
 - compiler design 
-- Os development
 - Machine learning
 ### ⚙️ Tech Stack
 

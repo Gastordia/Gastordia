@@ -1,4 +1,4 @@
-```markdown
+markdown
 <div align="center">
 
 #  ✦ SEVEN STARS SERVERS ✦
@@ -47,7 +47,7 @@ If something breaks, I want to know how far it breaks.
 [+] Cybersecurity club ...... Founded / 20+ members
 [+] Main environment ........ Linux
 [+] Preferred approach ...... Understand > Automate > Exploit
-```
+
 
 ---
 

@@ -54,7 +54,7 @@ other
 
 ### Certifications
 
-`Fortinet NSE 1 & 2` · `Palo Alto XSOAR EDU-380` · `ISO/IEC 27001 Associate` · `AWS Cloud Foundations` · `CCNA: Introduction to Networks`
+`Fortinet NSE 1 & 2` · `Palo Alto XSOAR EDU-380` · `ISO/IEC 27001 Associate` · `AWS Cloud Foundations` · `CCNA: Introduction to Networks` .  `CPTS`
 
 ---
 
